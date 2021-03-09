@@ -25,17 +25,17 @@ Uiteraard zorg je er bij de opstart voor dat er een aantal wagens als testgegeve
 
 Bekijk de demo goed : let er op dat we eventuele fouten nu ook uitgebreid gaan aangeven ! 
 
-## Class Library
+## Class Library  
 
-Je maakt een Class Library aan met de naam Scala.Oefening03.Core.  
-In deze Class Library maak je 2 klassen aan : 
-  * **Voertuig** : dit is de blauwdruk van een voertuig (= een entiteitsklasse)
+Je maakt een Class Library aan met de naam Scala.Oefening03.Core.    
+In deze Class Library maak je 2 klassen aan :   
+  * **Voertuig** : dit is de blauwdruk van een voertuig (= een entiteitsklasse)  
     Voorzie de nodige eigenschappen (zie boven)  
     Voorzie 2 constructors (1 parameterloos, 1 die alle waarden voor de eigenschappen ontvangt)  
     Overschrijf de ToString() methode en toon in de plaats MERK - SERIE (zie demo)  
-  * **Vloot** : dit is een service klasse.
-    Via deze klasse zorg je er voor dat een List met voertuigen wordt aangeboden.
-    Je zorgt er voor dat in de constructor van deze klasse de List gevuld wordt met testgegevens.
-    Voorzie een methode om een voertuig object toe te voegen aan de List
-    Voorzie een methode om een voertuig object te verwijderen uit de List
+  * **Vloot** : dit is een service klasse.  
+    Via deze klasse zorg je er voor dat een List met voertuigen wordt aangeboden.  
+    Je zorgt er voor dat in de constructor van deze klasse de List gevuld wordt met testgegevens.  
+    Voorzie een methode om een voertuig object toe te voegen aan de List  
+    Voorzie een methode om een voertuig object te verwijderen uit de List  
     
